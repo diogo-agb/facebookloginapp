@@ -1,0 +1,12 @@
+
+
+      
+keytool -exportcert -alias androiddebugkey -keystore "C:\Users\Diogo\.android\debug.keystore" | "C:\Development\openssl\bin\openssl" sha1 -binary | "C:\Development\openssl\bin\openssl" base64
+      
+
+C:\Development\openssl
+
+
+senha: android
+
+IDX+l4Ypj8ViyBQFAj41ANZfDiM=

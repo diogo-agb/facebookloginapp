@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "269157626763",
+    "firebase_url": "https://facebook-login-cd8da.firebaseio.com",
+    "project_id": "facebook-login-cd8da",
+    "storage_bucket": "facebook-login-cd8da.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:269157626763:android:b71d24862f0c2b172c358e",
+        "android_client_info": {
+          "package_name": "br.com.example.facebookloginapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "269157626763-t21dpsmmlnbf1m2apkq0n64j4hmfj7fq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcLDWf2cLZDzWvaNGMV4UjSTEeRoYiVV4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "269157626763-t21dpsmmlnbf1m2apkq0n64j4hmfj7fq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
